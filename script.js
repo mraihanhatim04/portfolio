@@ -1,4 +1,4 @@
 new TypeIt(".lead", {
-  speed: 30,
+  speed: 100,
   waitUntilVisible: true,
 }).go();
