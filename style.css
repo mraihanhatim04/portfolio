@@ -16,8 +16,7 @@ body {
 }
 
 .nav-link {
-  font-weight: 1000;
-  font-style: normal;
+  font-family: sans-serif;
 }
 
 /* Akhir Navbar */
@@ -37,9 +36,10 @@ body {
   letter-spacing: 10px;
 }
 .jumbotron p {
+  font-size: 18px;
   margin-top: 20px;
   letter-spacing: 2px;
-  letter-spacing: 10px;
+  font-family: sans-serif;
 }
 /* Akhir Jumbotron */
 
@@ -49,14 +49,17 @@ body {
 }
 
 #about h4 {
+  margin-top: 15px;
   color: whitesmoke;
   font-weight: bold;
   letter-spacing: 5px;
 }
 
 #about p {
+  margin-top: 25px;
   color: whitesmoke;
   letter-spacing: 2px;
+  font-family: sans-serif;
 }
 
 #about img {
@@ -64,3 +67,13 @@ body {
   margin-bottom: 10px;
 }
 /* Akhir About */
+
+/* Projects */
+
+#projects {
+  font-family: "Poetsen One", sans-serif;
+  margin-top: 100px;
+  height: 500px;
+  color: whitesmoke;
+}
+/* akhir projects */
