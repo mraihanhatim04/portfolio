@@ -28,6 +28,7 @@ body {
 
 /* Jumbotron */
 .jumbotron {
+  background-color: rgb(25, 25, 25);
   font-family: "Poppins", sans-serif;
   color: whitesmoke;
   padding: 2rem;
