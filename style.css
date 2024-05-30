@@ -25,3 +25,28 @@ body {
   color: whitesmoke;
 }
 /* Akhir Navbar */
+
+/* Jumbotron */
+.jumbotron {
+  font-family: "Poppins", sans-serif;
+  color: whitesmoke;
+  padding: 2rem;
+  text-align: center;
+}
+
+.jumbotron img {
+  width: 290px;
+  height: 320px;
+  box-shadow: 2px 2px 3px 3px rgb(255, 252, 252);
+}
+
+.jumbotron h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+.jumbotron p {
+  font-weight: normal;
+  letter-spacing: 2px;
+  font-weight: lighter;
+}
+/* Akhir Jumbotron */
