@@ -12,19 +12,14 @@ body {
 .navbar-brand {
   font-weight: 700;
   font-style: normal;
-  letter-spacing: 4px;
+  letter-spacing: 1px;
 }
 
 .nav-link {
-  font-weight: 300;
+  font-weight: 1000;
   font-style: normal;
 }
 
-.nav-link:hover {
-  font-weight: 600;
-  font-style: normal;
-  color: whitesmoke;
-}
 /* Akhir Navbar */
 
 /* Jumbotron */
@@ -67,7 +62,7 @@ body {
 }
 
 #about img {
-  width: 400px;
+  width: 450px;
   margin-bottom: 10px;
 }
 /* Akhir About */
