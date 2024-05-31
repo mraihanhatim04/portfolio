@@ -11,6 +11,7 @@ body {
 /* Navbar */
 .nav-item {
   font-family: "Poetsen One", sans-serif;
+  font-size: 22px;
 }
 /* Akhir Navbar */
 
@@ -84,7 +85,7 @@ body {
 }
 
 .card {
-  box-shadow: 3px 6px 4px 2px whitesmoke;
+  box-shadow: 4px 4px 10px 2px whitesmoke;
   background-color: rgb(35, 35, 35);
 }
 .card-body h5 {
