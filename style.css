@@ -1,8 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap");
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  margin: 0;
-  padding: 0;
   background-color: rgb(25, 25, 25);
 }
 
@@ -27,7 +29,7 @@ body {
 /* Jumbotron */
 .jumbotron {
   font-family: "Poetsen One", sans-serif;
-  margin-top: 50px;
+  margin-top: 80px;
   background-color: rgb(25, 25, 25);
   height: 500px;
   color: whitesmoke;
@@ -83,9 +85,8 @@ body {
 
 #projects {
   font-family: "Poetsen One", sans-serif;
-  margin-top: 100px;
-  height: 500px;
   color: whitesmoke;
+  margin-top: 100px;
 }
 
 #projects h2 {
