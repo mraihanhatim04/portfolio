@@ -29,7 +29,7 @@ body {
 /* Jumbotron */
 .jumbotron {
   font-family: "Poetsen One", sans-serif;
-  margin-top: 80px;
+  margin-top: 120px;
   background-color: rgb(25, 25, 25);
   height: 500px;
   color: whitesmoke;
@@ -63,7 +63,7 @@ body {
 #about h4 {
   margin-top: 15px;
   color: whitesmoke;
-  text-shadow: 3px 2px 1px #61b6f3;
+  text-shadow: 3px 2px 1px #4f91c0;
   font-weight: bold;
   letter-spacing: 5px;
 }
@@ -92,7 +92,7 @@ body {
 #projects h2 {
   font-size: 33px;
   color: whitesmoke;
-  text-shadow: 3px 2px 1px #61b6f3;
+  text-shadow: 3px 2px 1px #4f91c0;
 }
 
 .card {
