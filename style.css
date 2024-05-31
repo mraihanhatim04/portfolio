@@ -60,8 +60,8 @@ body {
 
 #about h4 {
   margin-top: 15px;
-  color: #61b6f3;
-  text-shadow: 3px 2px 1px white;
+  color: whitesmoke;
+  text-shadow: 3px 2px 1px #61b6f3;
   font-weight: bold;
   letter-spacing: 5px;
 }
@@ -90,8 +90,8 @@ body {
 
 #projects h2 {
   font-size: 33px;
-  color: #61b6f3;
-  text-shadow: 3px 2px 1px white;
+  color: whitesmoke;
+  text-shadow: 3px 2px 1px #61b6f3;
 }
 
 .card {
