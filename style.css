@@ -45,6 +45,7 @@ body {
 .jumbotron h5 {
   font-size: 20px;
   letter-spacing: 5px;
+  color: #61b6f3;
 }
 .jumbotron a {
   letter-spacing: 15px;
@@ -59,7 +60,8 @@ body {
 
 #about h4 {
   margin-top: 15px;
-  color: whitesmoke;
+  color: #61b6f3;
+  text-shadow: 3px 2px 1px white;
   font-weight: bold;
   letter-spacing: 5px;
 }
@@ -85,9 +87,13 @@ body {
   height: 500px;
   color: whitesmoke;
 }
-/* akhir projects */
 
-/* Card */
+#projects h2 {
+  font-size: 33px;
+  color: #61b6f3;
+  text-shadow: 3px 2px 1px white;
+}
+
 .card {
   box-shadow: 3px 6px 4px 2px whitesmoke;
   background-color: rgb(35, 35, 35);
@@ -99,4 +105,4 @@ body {
   color: whitesmoke;
   font-family: sans-serif;
 }
-/* Akhir Card */
+/* akhir projects */
