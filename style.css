@@ -33,15 +33,21 @@ body {
 }
 
 .jumbotron h1 {
-  font-size: 50px;
+  font-size: 25px;
   font-weight: bold;
   letter-spacing: 10px;
 }
-.jumbotron p {
-  font-size: 18px;
-  margin-top: 20px;
+.jumbotron h4 {
+  font-size: 50px;
   letter-spacing: 2px;
-  font-family: sans-serif;
+}
+.jumbotron h5 {
+  font-size: 20px;
+  letter-spacing: 5px;
+}
+.jumbotron a {
+  letter-spacing: 5px;
+  text-decoration: none;
 }
 /* Akhir Jumbotron */
 
@@ -90,9 +96,5 @@ body {
 .card-body P {
   color: whitesmoke;
   font-family: sans-serif;
-}
-
-.modal {
-  color: rgb(35, 35, 35);
 }
 /* Akhir Card */

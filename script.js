@@ -1,5 +1,5 @@
-new TypeIt(".display-4", {
-  speed: 30,
+new TypeIt(".ntmy", {
+  speed: 100,
   waitUntilVisible: true,
 }).go();
 
