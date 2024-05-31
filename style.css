@@ -1,6 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap");
 
 body {
+  margin: 0;
+  padding: 0;
   background-color: rgb(25, 25, 25);
 }
 
@@ -77,3 +79,20 @@ body {
   color: whitesmoke;
 }
 /* akhir projects */
+
+/* Card */
+.card {
+  background-color: rgb(35, 35, 35);
+}
+.card-body h5 {
+  color: whitesmoke;
+}
+.card-body P {
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.modal {
+  color: rgb(35, 35, 35);
+}
+/* Akhir Card */
