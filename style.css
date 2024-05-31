@@ -9,17 +9,31 @@ body {
 }
 
 /* Navbar */
+
+.navbar {
+  background-color: transparent !important;
+}
 .nav-item {
   font-family: "Poetsen One", sans-serif;
-  font-size: 22px;
+  font-size: 21px;
+}
+
+#texthome {
+  color: whitesmoke;
+  text-shadow: 3px 2px 1px #4f91c0;
+}
+
+#textproject {
+  color: #4f91c0;
+  text-shadow: 1px 1px 1px whitesmoke;
 }
 /* Akhir Navbar */
 
 /* Jumbotron */
 .jumbotron {
   font-family: "Poetsen One", sans-serif;
+  background-color: transparent;
   margin-top: 120px;
-  background-color: rgb(25, 25, 25);
   height: 500px;
   color: whitesmoke;
 }
@@ -47,6 +61,7 @@ body {
 /* About */
 #about {
   font-family: "Poetsen One", sans-serif;
+  margin-top: 5%;
 }
 
 #about h4 {
@@ -65,7 +80,7 @@ body {
 }
 
 #about img {
-  width: 300px;
+  width: 360px;
   margin-bottom: 10px;
 }
 /* Akhir About */
@@ -75,7 +90,7 @@ body {
 #projects {
   font-family: "Poetsen One", sans-serif;
   color: whitesmoke;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 #projects h2 {
@@ -85,7 +100,7 @@ body {
 }
 
 .card {
-  box-shadow: 4px 4px 10px 2px whitesmoke;
+  box-shadow: 4px 4px 5px #4f91c0;
   background-color: rgb(35, 35, 35);
 }
 .card-body h5 {
@@ -96,3 +111,41 @@ body {
   font-family: sans-serif;
 }
 /* akhir projects */
+
+.particles-container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1; /* Ensure particles are behind content */
+}
+
+@media (max-width: 275.98px) {
+  .navbar {
+    background-color: rgb(15, 15, 24) !important;
+    opacity: 1%;
+  }
+}
+
+@media (max-width: 767.98px) {
+  #about {
+    margin-top: 20%;
+  }
+
+  .navbar {
+    background-color: rgb(24, 24, 24) !important;
+    opacity: 1%;
+  }
+}
+
+@media (max-width: 991.98px) {
+  #about {
+    margin-top: 20%;
+  }
+
+  .navbar {
+    background-color: rgb(24, 24, 24) !important;
+    opacity: 1%;
+  }
+}
