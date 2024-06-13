@@ -1,4 +1,4 @@
-https://getbootstrap.com/ (framework css)
+https://getbootstrap.com/ (framework css bootstrap 5)
 https://www.typeitjs.com/ (typing text)
 https://fonts.google.com/specimen/Poetsen+One (font)
 https://michalsnik.github.io/aos/ (animation)
