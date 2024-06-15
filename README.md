@@ -5,4 +5,4 @@ https://michalsnik.github.io/aos/ (animation)
 https://www.freepik.com/ (icon)
 https://github.com/VincentGarreau/particles.js (animationjs)
 
-site is live at https://mraihanhatim04.github.io/portfolio.github.io/
+site is live at https://mraihanhatim04.github.io/portfolio-bootstrap/
